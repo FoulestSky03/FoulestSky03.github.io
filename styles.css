@@ -1,0 +1,32 @@
+.textcolor{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+#openingtext{
+    padding-top: 25px;
+    text-align: center;
+}
+
+#aboutme, #projects, #resume{
+    display: inline-block;
+}
+
+#aboutme{
+    width: 200px;
+    text-align: center;
+    margin-left: 0%;
+}
+
+#projects{
+    width: 200px;
+    text-align: center;
+}
+
+#resume{
+    width: 200px;
+    text-align: center; 
+}
