@@ -1,14 +1,14 @@
 .textcolor{
-    color: white;
+    color: #F3FFB9;
 }
 
-.container{
-    background-color: rgb(57, 0, 114);
+.menubar{
+    background-color: #778472;
+    color: #778472;
     display: flex;
-    border-radius: 20px;
+    border-radius: 25px;
     flex-direction: row;
-    gap: 30px;
-    
+    gap: 50px;
 }
 
 body{
@@ -20,17 +20,17 @@ body{
 }
 
 #aboutme{
-    width: 200px;
+    width: 150px;
     text-align: center;
     margin-left: 0%;
 }
 
 #projects{
-    width: 200px;
+    width: 150px;
     text-align: center;
 }
 
 #resume{
-    width: 200px;
+    width: 150px;
     text-align: center; 
 }
