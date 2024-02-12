@@ -2,13 +2,17 @@
     color: white;
 }
 
-body{
-    background-color: black;
+.container{
+    background-color: rgb(57, 0, 114);
+    display: flex;
+    border-radius: 20px;
+    flex-direction: row;
+    gap: 30px;
+    
 }
 
-#openingtext{
-    padding-top: 25px;
-    text-align: center;
+body{
+    background-color: black;
 }
 
 #aboutme, #projects, #resume{
