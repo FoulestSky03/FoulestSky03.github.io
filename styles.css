@@ -1,18 +1,34 @@
 .textcolor{
-    color: #F3FFB9;
+    color: #59656F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+#name-logo{
+    padding-left: 50px;
 }
 
 .menubar{
-    background-color: #778472;
-    color: #778472;
+    background-color: #D1D1D1;
+    color: #D1D1D1;
     display: flex;
     border-radius: 25px;
     flex-direction: row;
     gap: 50px;
 }
 
+#profile{
+width: 600px;
+height: 400px;
+margin-top: 30px;
+border: #9C528B;
+border-style: none;
+border-radius: 20px;
+float:right;
+}
+
 body{
-    background-color: black;
+    background-color: #000000;
 }
 
 #aboutme, #projects, #resume{
